@@ -4,7 +4,7 @@ QMTS is an iterative algorithm that quantizes network parameters and neuron stat
 
 # Files
 
-srnn_shd.py, srnn_gsc.py:
+srnn_shd.py, srnn_gsc.py, SRNN_layers/*:
 
 Based on SRNN model, code found [here](https://github.com/byin-cwi/Efficient-spiking-networks/tree/main), with PyTorch Fake Quantizer augmented.
 
